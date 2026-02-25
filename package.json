@@ -1,0 +1,24 @@
+{
+  "name": "seo-meta-checker",
+  "version": "1.0.0",
+  "description": "Web sayfalarının SEO meta etiketlerini analiz eden Node.js aracı",
+  "main": "index.js",
+  "bin": {
+    "seo-meta-checker": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js https://turkcode.net"
+  },
+  "keywords": [
+    "seo",
+    "meta-tags",
+    "analyzer",
+    "checker",
+    "web",
+    "html",
+    "seo-tools"
+  ],
+  "author": "turkcoode",
+  "license": "MIT",
+  "homepage": "https://turkcode.net"
+}
